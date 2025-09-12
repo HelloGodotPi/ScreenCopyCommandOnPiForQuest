@@ -14,7 +14,7 @@ scrcpy --max-size 800 --video-bit-rate 2M --max-fps 15 --stay-awake --no-audio
 <img width="1526" height="497" alt="Image" src="https://github.com/user-attachments/assets/b68d1600-6fcb-4644-933b-e95a19419494" />
 
 ```
-scrcpy --video-source=camera  --max-size 800 --video-bit-rate 2M --max-fps 15 --no-audio --camera-id=0
+scrcpy --video-source=camera  --max-size 800 --video-bit-rate 2M --max-fps 15 --no-audio --camera-id=50
 ```
 https://github.com/Genymobile/scrcpy/blob/master/doc/camera.md
 
