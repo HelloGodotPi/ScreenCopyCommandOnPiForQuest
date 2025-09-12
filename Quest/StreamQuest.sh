@@ -1,0 +1,1 @@
+scrcpy --max-size 800 --video-bit-rate 2M --max-fps 15 --stay-awake --no-audio

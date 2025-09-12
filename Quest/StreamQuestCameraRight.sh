@@ -1,0 +1,1 @@
+scrcpy --video-source=camera  --max-size 800 --video-bit-rate 2M --max-fps 15 --no-audio --camera-id=51
